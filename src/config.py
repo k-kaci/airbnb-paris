@@ -1,0 +1,6 @@
+AIRBNB_LISTINGS_FILE = "../input/airbnb_052020_listings.csv"
+AIRBNB_DATASET_FILE = "../input/airbnb_052020_dataset.csv"
+AIRBNB_TRAIN_FILE = "../input/airbnb_052020_train.csv"
+AIRBNB_TEST_FILE = "../input/airbnb_052020_test.csv"
+AIRBNB_TRAIN_FOLDS_FILE = "../input/airbnb_052020_train_folds.csv"
+MODEL_OUTPUT = "../models/"
